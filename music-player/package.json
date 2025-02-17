@@ -1,0 +1,23 @@
+{
+  "name": "music-player",
+  "version": "1.0.0",
+  "description": "A web-based music player with playlist support",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "music",
+    "player",
+    "web",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
